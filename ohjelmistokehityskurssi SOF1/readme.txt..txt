@@ -1,0 +1,1 @@
+Tämä kansio sisältää Johdanto Ohjelmistokehitykseen -kurssin harjoitustiedostoja jne.
