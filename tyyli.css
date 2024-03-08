@@ -1,0 +1,11 @@
+body {
+    color:black;
+    background-color: rgb(255, 182, 232);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 40px 20px;
+}
+
+#kahvikuva {
+ width: 100%;
+ max-width: 400px;
+}
