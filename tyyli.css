@@ -1,11 +1,39 @@
+
 body {
-    color:black;
-    background-color: rgb(255, 182, 232);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin: 40px 20px;
+    color: rgba(243, 235, 235, 0.957);
+    background-color: rgb(220, 107, 160);
+    font-family: 'alasassy caps', alasassy caps;
+    margin: 10px 10px;
 }
 
-#kahvikuva {
- width: 100%;
- max-width: 400px;
+figure {
+    border: 10px #ff23c1cc solid;
+    padding: 10px;
+    margin: auto;
+    border-radius: 30px;
+}
+
+figcaption {
+    background-color: rgb(227, 113, 157);
+    color: white;
+    font-style: italic;
+    padding: 2px;
+    text-align: center;
+}
+
+#hääparikuva {
+    width: 100%;
+    /*     max-width: 400px; */
+}
+
+.esittely {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+header {
+
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
